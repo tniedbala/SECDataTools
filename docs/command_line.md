@@ -4,8 +4,8 @@
 
 ```
 $ python SECDataTools/GetData 	[-h] [-path PATH] [-destination DESTINATION] [-qtr QTR]
-								[-startqtr STARTQTR] [-endqtr ENDQTR] [-singledir] [-rmzip]
-								[-download] [-extract]
+				[-startqtr STARTQTR] [-endqtr ENDQTR] [-singledir] [-rmzip]
+				[-download] [-extract]
 ```
 
 ### Optional Arguments:
