@@ -18,13 +18,13 @@ By default data files are extracted to subdirectories in a format that mirrors e
         │   ├── pre.txt
         │   ├── readme.htm
         │   ├── sub.txt
-        │   └── tag.zip
+        │   └── tag.txt
         ├── 2017q2
         │   ├── num.txt
         │   ├── pre.txt
         │   ├── readme.htm
         │   ├── sub.txt
-        │   └── tag.zip
+        │   └── tag.txt
         └── sec_zip
             ├── 2017q1.zip
             └── 2017q1.zip
