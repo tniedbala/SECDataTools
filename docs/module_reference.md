@@ -2,7 +2,7 @@
  
 *SECDataTools*.**latest_qtr()**
 
-Returns the latest available financial statement period available for download on sec.gov (ie: `'2017q1'`). This can be verified against available dataset posted at https://www.sec.gov/dera/data/financial-statement-data-sets.html.
+Returns string value indicating the latest available financial statement period available for download on sec.gov (ie: `'2017q1'`). This can be verified against available dataset posted at https://www.sec.gov/dera/data/financial-statement-data-sets.html.
 <br><br>
 
 *SECDataTools*.**download(**_qtr=None, startqtr='2009q1', endqtr=None, path=None_**)**
